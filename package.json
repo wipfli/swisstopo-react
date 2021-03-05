@@ -1,6 +1,7 @@
 {
     "name": "swisstopo-react",
     "version": "1.0.0",
+    "homepage": "./",
     "description": "Boilerplate code for a website showing the swisstopo light base map",
     "author": "",
     "license": "ISC",
